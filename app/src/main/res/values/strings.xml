@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AdyenDemo</string>
+    <string name="amount">Amount</string>
+    <string name="locales">Locales</string>
+    <string name="payment_methods">Payment methods</string>
+    <string name="checkout">Checkout</string>
+    <string name="retry">Retry</string>
+    <string name="correct_amount_">Correct amount: %1$s %2$s</string>
+    <string name="minimum_amount_">Minimum amount: %1$s %2$s</string>
+    <string name="payment_was_successful_">Payment was successful!</string>
+    <string name="ok">OK</string>
+</resources>
